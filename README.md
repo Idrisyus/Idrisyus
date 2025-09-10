@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Idris  
 
-<!--
-**Idrisyus/Idrisyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Economics Education Background | Lifelong Learner**  
 
-Here are some ideas to get you started:
+I’m passionate about turning raw data into actionable insights that drive decision-making.  
+With a strong foundation in economics education, I bridge the gap between numbers and real-world business impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 About Me  
+- 📊 Skilled in Excel, SQL, Power BI, Python 
+- 🎓 Background in Economics Education (strong analytical + teaching mindset)  
+- 💡 Experienced in building dashboards, reports, and business insights  
+- 🧑‍🏫 Also passionate about teaching and mentoring others in analytics  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+Data Analysis & BI  
+- Excel | Power Query | Power BI 
+
+**Programming & Databases**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (Joins, Aggregations, Window Functions)  
+
+**Other Skills**  
+- Data Cleaning & Transformation  
+- Data Visualization & Storytelling  
+- Business Reporting & KPI Tracking  
+
+---
+
+## 📂 Featured Projects  
+
+### 🪑 [Furniture Sales Dashboard](./furniture-sales-dashboard)  
+A sales performance dashboard highlighting sales, profit, shipping efficiency, and regional distribution
+
+---
