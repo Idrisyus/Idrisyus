@@ -37,3 +37,5 @@ Data Analysis & BI
 A sales performance dashboard highlighting sales, profit, shipping efficiency, and regional distribution
 
 ---
+## Lets Connect on 
+Linked In (www.linkedin.com/in/idris-yusuf-a1038b282)
