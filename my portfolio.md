@@ -36,6 +36,8 @@ Data Analysis & BI
 ### 🪑 [Furniture Sales Dashboard](./furniture-sales-dashboard)  
 A sales performance dashboard highlighting sales, profit, shipping efficiency, and regional distribution
 
+### [Tovidach Real Estate Dashboard](https://github.com/Idrisyus/Real-Estate-Analysis)
+
 ---
 ## Lets Connect on 
 Linked In (www.linkedin.com/in/idris-yusuf-a1038b282)
