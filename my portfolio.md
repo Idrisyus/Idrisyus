@@ -38,7 +38,7 @@ A sales performance dashboard highlighting sales, profit, shipping efficiency, a
 
 ### [Tovidach Real Estate Dashboard](https://github.com/Idrisyus/Real-Estate-Analysis)
 This dashboard highlights the costs of property per region,affordability of professions,cost of commute
-###[Car Sales Analysis](https://github.com/Idrisyus/Car-Sale-Analysis)
+###([https://github.com/Idrisyus/Car-Sale-Analysis](https://github.com/Idrisyus/Car-Sale-Analysis/blob/3e7234fc2fed6e248324edbcd762794bf2377a27/car%20sales%20dashboard%20overview.png))
 A sales performance dashboard highlighting regional sales perfomance,profit,comparism between previous and current year sales
 
 ---
