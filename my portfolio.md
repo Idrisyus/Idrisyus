@@ -37,6 +37,9 @@ Data Analysis & BI
 A sales performance dashboard highlighting sales, profit, shipping efficiency, and regional distribution
 
 ### [Tovidach Real Estate Dashboard](https://github.com/Idrisyus/Real-Estate-Analysis)
+This dashboard highlights the costs of property per region,affordability of professions,cost of commute
+###[Car Sales Analysis](https://github.com/Idrisyus/Car-Sale-Analysis)
+A sales performance dashboard highlighting regional sales perfomance,profit,comparism between previous and current year sales
 
 ---
 ## Lets Connect on 
